@@ -21,3 +21,7 @@ shuprabhat.in
 ## Getting started
 
 Setup and usage instructions will be added as the app takes shape.
+
+## Notes
+
+This README was last updated via the GitHub connector.
